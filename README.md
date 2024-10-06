@@ -1,0 +1,1 @@
+On Day 3 of my DSA practice, I focused on learning how to effectively use loops in conjunction with conditional statements like if to solve problems. Additionally, I explored pattern programming, which helps in understanding nested loops and enhancing problem-solving skills.
